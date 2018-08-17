@@ -5,8 +5,8 @@
  * Plugin URI: http://brentmercer.com/wp-change-welcome-banner-plugin/
  * Author: 		Brent Mercer
  * Author URI: 	http://brentmercer.com/
- * Version:		1.0
- * License: 	GPL2 or later
+ * Version:		1.0.0
+ * License:		GPLv2 or later
  * License URI: https://www.gnu.org/licenses/gpl-2.0.html
  * Text Domain:	wp-change-welcome-banner
  * Domain Path:	/languages
