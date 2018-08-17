@@ -2,12 +2,12 @@
 /*
  * Plugin Name:	WP Change Welcome Banner
  * Description:	Chanegs WordPress's welcome banner and adds a custom title and message.
- * Plugin URI: http://brentmercer.com/wp-change-welcome-banner-plugin/
+ * Plugin URI:	http://brentmercer.com/wp-change-welcome-banner-plugin/
  * Author: 		Brent Mercer
  * Author URI: 	http://brentmercer.com/
  * Version:		1.0.0
  * License:		GPLv2 or later
- * License URI: https://www.gnu.org/licenses/gpl-2.0.html
+ * License URI:	https://www.gnu.org/licenses/gpl-2.0.html
  * Text Domain:	wp-change-welcome-banner
  * Domain Path:	/languages
 
